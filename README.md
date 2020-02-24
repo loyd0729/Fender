@@ -1,0 +1,2 @@
+# Guitar
+Example of interface
