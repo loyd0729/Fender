@@ -1,5 +1,11 @@
 package lawrence.java.programming;
 
+package lawrence.java.programming.fender;
+
+import lawrence.java.programming.Fender;
+import lawrence.java.programming.Telecaster;
+import lawrence.java.programming.Stratocaster;
+
 public class Main {
 
 	public static void main(String[] args) {
